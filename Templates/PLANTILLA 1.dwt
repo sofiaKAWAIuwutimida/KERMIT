@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Turip</title>
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="principal">
+  <div id="Encabezado">
+    <div id="Logo"></div>
+    <!-- TemplateBeginEditable name="titulo" -->
+    <div id="Titulo"></div>
+    <!-- TemplateEndEditable --></div>
+  <div id="Menu"><a href="../index.html">INICIO</a> | <a href="../perros.html">PERROS</a> | <a href="../gatos.html">GATOS</a> |<a href="../pericos.html"> PERICOS</a><a href="../pericos.html"></a> | Mas....</div>
+  <div id="Cuerpo">
+    <table width="1000" border="1">
+      <tbody>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div id="Pie">
+  <div id="derechos"><!-- TemplateBeginEditable name="derechos" -->Todos los derrechos reservados 2024<!-- TemplateEndEditable --></div>
+	  <div id="redes"><img src="../ig.jpg" width="93" height="50" alt=""/><img src="../twiter.jpg" width="93" height="50" alt=""/><img src="../fb.jpg" width="93" height="50" alt=""/></div>
+	</div>
+	
+	
+</div>
+</body>
+</html>

@@ -1,0 +1,63 @@
+@charset "utf-8";
+#menu {
+    height: 181px;
+    width: 100%;
+    font-size: 46px;
+}
+#encabezado {
+    height: 100px;
+    width: 100%;
+    background-color: #B597FF;
+    font-size: medium;
+}
+#cuerpo {
+    height: 850px;
+    width: 100%;
+    background-color: #FF8E90;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: oblique;
+    text-align: center;
+    font-size: 30px;
+}
+#pie {
+    height: 100px;
+    width: 100%;
+    background-color: #FF393C;
+}
+#imagenr {
+    height: 100px;
+    width: 25%;
+}
+#imagenr {
+    float: right;
+    height: 100px;
+    width: 25%;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+/* unvisited link */
+a:link {
+  color: red;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+	text-decoration: none;
+}

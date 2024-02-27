@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Turip</title>
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="principal">
+  <div id="Encabezado">
+    <div id="Logo"></div>
+    <div id="Titulo"><!-- TemplateBeginEditable name="TITULO" -->Content for  id "Titulo" Goes Here<!-- TemplateEndEditable --></div>
+  </div>
+  <div id="Menu">PERROS | GATOS | PERICOS</div>
+  <div id="Cuerpo"><!-- TemplateBeginEditable name="contenido" -->Content for  id "Cuerpo" Goes Here<!-- TemplateEndEditable --></div>
+  <div id="Pie">
+  <div id="derechos">Todos los derrechos reservados 2024</div>
+	  <div id="redes">twitter | instagram | tiktok</div>
+  </div>
+	
+	
+</div>
+2
+
+	
+</body>
+</html>
